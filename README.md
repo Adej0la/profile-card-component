@@ -20,9 +20,8 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 ## The Solution
 
-- https://fem-projects.vercel.app
-    
-- https://fem-projects-git-master.adej0la.vercel.app
-    
-- https://fem-projects.adej0la.vercel.app
+- https://profile-card-component-pearl-ten.vercel.app/
 
+- https://profile-card-component-adej0la.vercel.app/
+
+- https://profile-card-component-git-main-adej0la.vercel.app/
